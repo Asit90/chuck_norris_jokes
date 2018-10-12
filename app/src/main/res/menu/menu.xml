@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/explicit"
+        android:icon="@drawable/explicit"
+        android:title="EXPLICIT" />
+
+    <item
+        android:id="@+id/dev"
+        android:icon="@drawable/dev"
+        android:title="DEV" />
+
+    <item
+        android:id="@+id/movie"
+        android:icon="@drawable/movie"
+        android:title="MOVIE" />
+
+    <item
+        android:id="@+id/food"
+        android:icon="@drawable/food"
+        android:title="FOOD" />
+
+    <item
+        android:id="@+id/celebrity"
+        android:icon="@drawable/celebrity"
+        android:title="CELEBRITY" />
+
+    <item
+        android:id="@+id/science"
+        android:icon="@drawable/science"
+        android:title="science" />
+
+    <item
+        android:id="@+id/sport"
+        android:icon="@drawable/sport"
+        android:title="SPORT" />
+
+    <item
+        android:id="@+id/political"
+        android:icon="@drawable/politician"
+        android:title="POLITICAL" />
+    <item
+        android:id="@+id/religion"
+        android:icon="@drawable/religion"
+        android:title="RELIGION"/>
+    <item
+        android:id="@+id/animal"
+        android:icon="@drawable/animal"
+        android:title="ANIMAL"/>
+    <item
+        android:id="@+id/history"
+        android:icon="@drawable/history"
+        android:title="HISTORY"/>
+    <item
+        android:id="@+id/music"
+        android:icon="@drawable/music"
+        android:title="MUSIC"/>
+    <item
+        android:id="@+id/travel"
+        android:icon="@drawable/travel"
+        android:title="TRAVEL"/>
+    <item
+        android:id="@+id/career"
+        android:icon="@drawable/career"
+        android:title="CAREER"/>
+    <item
+        android:id="@+id/money"
+        android:icon="@drawable/money"
+        android:title="MONEY"/>
+    <item
+        android:id="@+id/fashion"
+        android:icon="@drawable/fashion"
+        android:title="FASHION"/>
+</menu>
